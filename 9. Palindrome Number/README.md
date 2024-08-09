@@ -26,8 +26,7 @@ Constraints:
 
 
 # Difficulty Level
-- !#00FF00 'Easy'
-- !#c5f015 `#c5f015`
+🟢 EASY
 
 # Code Explanation 🧑‍💻
 
