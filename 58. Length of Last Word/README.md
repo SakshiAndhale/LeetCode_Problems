@@ -63,5 +63,6 @@ We return the length of the last word using the `len()` function.
 | "luffy is still joyboy"       | 6               | The last word is "joyboy" which has 6 characters.                |
 
 
-<div> **Ranking**
-![Screenshot 2024-08-27 192232](https://github.com/user-attachments/assets/c4dde108-ae5e-4cd1-bac0-dd5dc4b5ddd1) </div>
+**Ranking**
+
+![Screenshot 2024-08-27 192232](https://github.com/user-attachments/assets/c4dde108-ae5e-4cd1-bac0-dd5dc4b5ddd1)
